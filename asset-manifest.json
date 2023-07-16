@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/px-rem-converter/static/css/main.a9c3de87.css",
+    "main.js": "/px-rem-converter/static/js/main.b6bfd4a0.js",
+    "static/js/787.6abdbda0.chunk.js": "/px-rem-converter/static/js/787.6abdbda0.chunk.js",
+    "index.html": "/px-rem-converter/index.html",
+    "main.a9c3de87.css.map": "/px-rem-converter/static/css/main.a9c3de87.css.map",
+    "main.b6bfd4a0.js.map": "/px-rem-converter/static/js/main.b6bfd4a0.js.map",
+    "787.6abdbda0.chunk.js.map": "/px-rem-converter/static/js/787.6abdbda0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c3de87.css",
+    "static/js/main.b6bfd4a0.js"
+  ]
+}
